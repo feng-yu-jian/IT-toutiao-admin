@@ -8,24 +8,24 @@
 
 项目已经完成功能如下：
 
-- 登录/退出
+**登录**
 
 ![登录.png](https://i.loli.net/2021/02/26/uSAg5wY7DmyLZ9f.png)
 
-- 内容管理
+**内容管理**
 
   + 文章筛选
   + 编辑/删除文章
 
 ![内容管理.png](https://i.loli.net/2021/02/26/L8esmO1dw6ct3yJ.png)
 
-- 素材管理
+**素材管理**
 
   + 收藏/删除素材
 
 ![素材管理.png](https://i.loli.net/2021/02/26/BIY5HUPV4GiXT7O.png)
 
-- 发布文章
+**发布文章**
 
   + 支持MarkDown
 
@@ -34,13 +34,13 @@
 
 ![发布文章.png](https://i.loli.net/2021/02/26/FLK7XjbDuseGVUz.png)
 
-- 评论管理
+**评论管理**
 
   + 关闭/打开文章评论
 
 ![评论管理.png](https://i.loli.net/2021/02/26/372uDIgU1Lq4TrS.png)
 
-- 个人设置
+**个人设置**
 
   + 更换个人信息
   + 更换头像
