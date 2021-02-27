@@ -6,6 +6,8 @@
 >
 > 本项目采用前后端分离的开发模式，使用 Vue.js 技术栈和 Element组件库构建的PC端单页面应用程序
 > 
+**线上地址**：  
+
 **相关资源**：  [Vue.js 移动端项目--IT头条](https://github.com/feng-yu-jian/IT-toutiao)
 
 项目已经完成功能如下：
